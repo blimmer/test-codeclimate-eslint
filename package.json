@@ -1,0 +1,22 @@
+{
+  "name": "test-codeclimate-eslint",
+  "version": "1.0.0",
+  "description": "testing repo for eslint codeclimate plugin",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blimmer/test-codeclimate-eslint.git"
+  },
+  "author": "Ben Limmer <ben@benlimmer.com> (http://benlimmer.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blimmer/test-codeclimate-eslint/issues"
+  },
+  "homepage": "https://github.com/blimmer/test-codeclimate-eslint#readme",
+  "dependencies": {
+    "eslint": "^3.7.1"
+  }
+}
